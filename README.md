@@ -10,7 +10,7 @@ https://arxiv.org/abs/1811.00907
 
 ## Dependencies
 * Python 3
-* Pyro
+* Pyro (0.3.2)
 * Pytorch
 * Numpy
 
